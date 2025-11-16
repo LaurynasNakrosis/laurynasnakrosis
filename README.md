@@ -1,7 +1,13 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+# Hi, I'm Laurynas 👋
+
+**Frontend-leaning Full-Stack Developer** (London, UK)  
+I build clean, fast, and scalable web apps with **Next.js, TypeScript, React, Tailwind, MongoDB, Stripe, NextAuth** — and I love turning real business needs into working products.
+
+- 🔭 Currently: Freelance developer delivering e-commerce & SaaS.
+- 🧠 Learning: Better product thinking, React performance, GraphQL.
+- 🏃 Personal: Training for my **first London Marathon**.
+- 💼 Open to: Frontend / Full-Stack roles (React/Next.js).
 <!--
 **LaurynasNakrosis/laurynasnakrosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
