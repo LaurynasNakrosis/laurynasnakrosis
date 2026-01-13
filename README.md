@@ -6,7 +6,7 @@ I build clean, fast, and scalable web apps with **Next.js, TypeScript, React, Ta
 
 - 🔭 Currently: Freelance developer delivering e-commerce & SaaS.
 - 🧠 Learning: Better product thinking, React performance, GraphQL.
-- 🏃 Personal: Training for my **first London Marathon**.
+- 🏃 Personal: Training for my **first Marathon in London **.
 - 💼 Open to: Frontend / Full-Stack roles (React/Next.js).
 <!--
 **LaurynasNakrosis/laurynasnakrosis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
