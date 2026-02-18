@@ -19,4 +19,3 @@ I build clean, fast, and scalable web apps with **Next.js, TypeScript, React, Ta
 ---
 [![](https://visitcount.itsvg.in/api?id=LaurynasNakrosis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
