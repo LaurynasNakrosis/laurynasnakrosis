@@ -14,6 +14,7 @@ I build clean, fast, and scalable web apps with **Next.js, TypeScript, React, Ta
 # 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LaurynasNakrosis&theme=dark&hide_border=false&v=1)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LaurynasNakrosis&theme=github-dark-blue&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
 
 
