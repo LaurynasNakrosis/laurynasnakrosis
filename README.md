@@ -28,9 +28,6 @@ I build clean, fast, and scalable web apps with **Next.js, TypeScript, React, Ta
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=LaurynasNakrosis&theme=transparent&hide_border=true&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&text=C9D1D9)](https://git.io/streak-stats)
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LaurynasNakrosis&theme=transparent&hide_border=true&border_radius=12&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&text=C9D1D9&v=2)](https://git.io/streak-stats)
 
 
